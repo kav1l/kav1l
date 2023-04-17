@@ -1,6 +1,6 @@
 👋 Hi, I’m @kav!l
 I’m born 2003 and im starting in IT
-I’m looking to create some new thing and ideas that comes to my mind :)
+I’m looking to create some new things and ideas that comes to my mind :)
 
 
 <!---
